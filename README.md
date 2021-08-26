@@ -11,6 +11,10 @@
 
 IDEA选择Maven导入项目后，导入sql文件，修改项目的数据库配置，启动tomcat运行即可。
 
+- 数据库脚本为biyesheji.sql;
+- 后台超级管理员：name：小白，password：adminadmin
+- 前台客户：name：byh，password：12345
+
 下面是部分运行截图
 
 **管理员后台**
